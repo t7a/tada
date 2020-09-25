@@ -5,7 +5,7 @@ import (
 	"math"
 	"time"
 
-	"github.com/ptiger10/tada"
+	"github.com/t7a/tada"
 )
 
 func ExampleSeries() {

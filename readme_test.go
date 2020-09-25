@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ptiger10/tada"
+	"github.com/t7a/tada"
 )
 
 func sampleDataPipeline(df *tada.DataFrame) *tada.DataFrame {
