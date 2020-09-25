@@ -1,4 +1,4 @@
-module github.com/ptiger10/tada
+module github.com/t7a/tada
 
 go 1.14
 
